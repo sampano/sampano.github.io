@@ -142,4 +142,6 @@ span {
     .attribution {
         display: none;
     }
+    .container {
+        top:5%;
 }
